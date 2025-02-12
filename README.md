@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhiaElhak-Ezzeddini
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Reverse engineering , Malware Analysis ,Computer Science Basics and penetration testing
-- 💞️ I’m looking to collaborate on projects related to CyberSecurity
+- 👀 I’m interested in CyberSecurity and Artificial Intelligence fields
+- 🌱 I’m currently an ICT engineering student at Higher School Of Communications Of Tunis (known as SUP'COM) , https://www.supcom.tn/
+- 💞️ I’m looking to collaborate on projects related to CyberSecurity and Artificial Intelligence 
 - 📫 How to reach me : dhiaelhak.ezzeddini@supcom.tn
 <!---
 DhiaElhak-Ezzeddini/DhiaElhak-Ezzeddini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
